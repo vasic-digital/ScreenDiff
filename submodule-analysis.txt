@@ -1,0 +1,7 @@
+Commit: ad303d7d507a6e93182bc2767e8132d917ff6138
+Branch: main
+ad303d7 Add GitHub Sponsors button for vasic-digital
+8f76e33 security: Add mandatory NO SUDO/ROOT execution constraint
+50d0b2e docs: add ARCHITECTURE.md, .env gitignore for v2.1.0
+f2a4078 feat: initial release — screen comparison for visual testing
+
