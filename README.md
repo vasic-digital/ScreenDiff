@@ -88,3 +88,7 @@ Returned by `Compare()`.
 ## License
 
 Apache-2.0
+
+## Dependency manifest
+
+Own-org dependencies (§11.4.31) are declared in `helix-deps.yaml` (this submodule has none).
